@@ -1,3 +1,5 @@
+Данный файл был добавлен Иваном.
+
 # Git seminar. Branchs.
 
 ## Branch creating
